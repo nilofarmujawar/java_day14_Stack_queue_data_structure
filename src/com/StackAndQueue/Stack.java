@@ -1,4 +1,4 @@
-package com.Stack;// package
+package com.StackAndQueue;// package
 
 /* 1.Ability to create a stack of 56,30,70..........UC1
  * 2.Ability to peak and pop from the stack till it is empty 56,30,70

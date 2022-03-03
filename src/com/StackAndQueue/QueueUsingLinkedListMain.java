@@ -1,4 +1,4 @@
-package com.Queue;  // package name
+package com.StackAndQueue;  // package name
 
 /*
  * 1. ability to create queue ......uc1
@@ -109,9 +109,13 @@ public class QueueUsingLinkedListMain {
          * calling method
          */
         queue.enqueue( 56);
+        queue.dequeue();
         queue.enqueue(30);
+        queue.dequeue();
         queue.enqueue(70);
         queue.dequeue();
+        System.out.println("queue is empty");
+
 
     }
 }
