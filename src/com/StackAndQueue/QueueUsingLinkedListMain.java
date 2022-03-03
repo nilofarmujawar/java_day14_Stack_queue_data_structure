@@ -5,7 +5,7 @@ package com.StackAndQueue;  // package name
  * 2 . ability to deque from beginning.......uc2
  */
 
-
+ 
 
 /*
  * main class
