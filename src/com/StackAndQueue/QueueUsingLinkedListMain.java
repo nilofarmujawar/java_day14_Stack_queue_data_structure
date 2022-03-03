@@ -1,8 +1,8 @@
 package com.StackAndQueue;  // package name
 
 /*
- * 1. ability to create queue ......uc1
- * 2 . ability to deque from beginning.......uc2
+ * 1. ability to create queue ......uc3
+ * 2 . ability to deque from beginning.......uc4
  */
 
  
