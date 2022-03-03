@@ -13,3 +13,7 @@ buildNumber.properties
 *.classpath
 *.class
 *.project
+<<<<<<< HEAD
+=======
+*.idea
+>>>>>>> 560146d5092472f53ce0e272a2810dffe63ce40a
